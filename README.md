@@ -2,4 +2,3 @@
 - 👀 I’m interested in linux
 - 🌱 I’m currently learning about linux
 - 💞️ I’m looking forward to collaborate
-- 
