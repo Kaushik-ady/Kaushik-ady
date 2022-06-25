@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Kaushik-ady
+- 👀 I’m interested in linux
+- 🌱 I’m currently learning about linux
+- 💞️ I’m looking to collaborate
